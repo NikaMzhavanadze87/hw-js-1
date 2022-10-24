@@ -1,0 +1,14 @@
+const frontEndDev="Homeworck";
+let myNumber=14;
+let booLean=true;
+let emPty=null;
+let unDefined;
+const myName="Nika";
+let myHobby="listening music";
+const yearOfBirth=1987;
+let currentYear=2022;
+let myAge=currentYear-yearOfBirth;
+const concText="My name is "+ myName + ", "+"I am " + myAge + " and my hobby is " + myHobby +". ";
+console.log(concText);
+const concTl=`my name is  ${myName}, I am ${currentYear-yearOfBirth} and my hobby is ${myHobby}.`;
+console.log(concTl);
